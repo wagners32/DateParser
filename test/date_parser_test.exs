@@ -39,4 +39,8 @@ defmodule DateParserTest do
     assert "30" =~ Regex.compile!(DateParser.day())
     assert "31" =~ Regex.compile!(DateParser.day())
   end
+
+  test "test numeric pattern for month is a string" do
+    
+  end
 end

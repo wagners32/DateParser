@@ -5,5 +5,9 @@ defmodule DateParser do
   def day() do
     "[0-9]"
   end
+
+  def month() do
+    "[0-9]"
+  end
   
 end
