@@ -1,6 +1,6 @@
 # DateParser
 
-**TODO: Add description**
+**Date Parser**
 
 ## Installation
 
